@@ -22,4 +22,12 @@ $ ollama serve --port 11434 deepseek-r1
 ```
 
 No exemplo é utilizado o modelo `deepseek-r1`. Enquanto estiver rodando o processo no terminal, é possível acessar a interface local do `llama.cpp` visitando o endereço: 
-http://127.0.0.1:11434/
+http://localhost:11434/
+
+## Para uso no VSCodium
+
+Seguir a [documentação](https://readmedium.com/using-ollama-in-your-ide-with-continue-e8cefeeee033) da extensão opensource `continue`.
+
+### Ou
+
+Seguir a [documentação](https://docs.ollama.com/integrations/vscode) do site oficial para integração com o GitHub Copilot.
