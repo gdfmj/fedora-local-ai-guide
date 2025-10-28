@@ -12,4 +12,5 @@
 Este guia introduz a instalação e utilização de modelos de Inteligência Artificial LLM (Large Language Model) no Fedora. Para mais informações:
 
 [Verificar a Lista de Modelos Compatíveis](https://ollama.com/search)
+
 [Documentação Oficial](https://docs.ollama.com/)
